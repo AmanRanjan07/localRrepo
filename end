@@ -1,0 +1,16 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 001abfd..e2a4513 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1,2 +1,9 @@[m
+ <p>This is the new index.html file.</p>[m
+[31m-<p> Learing the how to push the changes to the remote repository.</p>[m
+\ No newline at end of file[m
+[32m+[m[32m<p> Learing the how to push the changes to the remote repository.</p>[m
+[32m+[m
+[32m+[m[32m<p> this the new feature throught which which we can use to enhance our workflow.</p>[m
+[32m+[m[32m<p>Using the "git checkout" command to switch between branches.</p>[m
+[32m+[m[32m<p>Using the "git branch" command to create and manage branches. Or find the created branches.</p>[m
+[32m+[m[32m<p>Using of the "git branch -b "brach name"" command to create a new branch and switch to it.</p>[m
+[32m+[m[32m<p>Using the "git branch -d" command to delete a branch.</p>[m
+[41m+[m
